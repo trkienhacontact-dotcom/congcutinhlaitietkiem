@@ -8,7 +8,7 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
-st.image("logo.jpg")
+st.image("cindy.jpg")
 
 # ==============================
 # TIÊU ĐỀ
